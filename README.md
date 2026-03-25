@@ -26,6 +26,7 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp.git) - A comprehensive Solana MCP server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data. Features real-time memecoin radar, social signal analysis, whale wallet tracking, and rugpull protection.
 - [Solana Wallet Security Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner) - A MCP server that implements a Solana security analysis system. It allows users to scan wallets for threats, detect suspicious programs, and provides tools for monitoring blockchain activity via @solana/web3.js.
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - A Model Context Protocol (MCP) server that allows Claude Desktop to deploy instantly tradable tokens on Solana at zero cost with just a simple conversation.
+- [WZRD Velocity Oracle MCP](https://github.com/twzrd-sol/wzrd-final) - AI model velocity oracle with 26 MCP tools. Read real-time developer adoption signals across 100+ models on HuggingFace, GitHub, OpenRouter, and ArtificialAnalysis. Agents earn CCM on-chain via server-witnessed inference. Streamable HTTP transport at `https://app.twzrd.xyz/api/mcp`. 9 Switchboard feeds on mainnet.
 
 
 ## Tools and Libraries
