@@ -26,6 +26,7 @@
 - [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp.git) - 一个全面的 Solana MCP 服务器，用于分析迷因币、跟踪趋势，并通过文化分析和链上数据提供 AI 驱动的见解。具有实时迷因币雷达、社交信号分析、鲸鱼钱包跟踪和跑路保护功能。
 - [Solana Wallet Security Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner) - 一个实现 Solana 安全分析系统的 MCP 服务器。它允许用户扫描钱包威胁，检测可疑程序，并提供通过 @solana/web3.js 监控区块链活动的工具。
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - 一个模型上下文协议（MCP）服务器，允许 Claude Desktop 通过简单的对话在 Solana 上以零成本部署即时可交易的代币。
+- [WZRD Velocity MCP Server](https://github.com/twzrd-sol/wzrd-velocity) - AI 模型速度预言机 MCP 服务器，提供 26 个工具，用于跟踪 HuggingFace、GitHub、OpenRouter 和 ArtificialAnalysis 上 100+ 模型的实时采用动态。可流式 HTTP 端点：[app.twzrd.xyz/api/mcp](https://app.twzrd.xyz/api/mcp)。支持模型选择（`pick_model`）、动量信号、排行榜，以及通过 Ed25519 认证的代理协议交互。由 Solana 主网上的 9 个 Switchboard 预言机数据源支持。
 
 ## 工具和库
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - 用于将 AI 代理连接到 Solana 协议的工具包。具有跨链操作、代币管理、Voltr 金库交互和基于 LangGraph 的多代理系统支持。
